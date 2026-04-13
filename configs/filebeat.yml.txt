@@ -1,0 +1,7 @@
+filebeat.inputs:
+- type: log
+  paths:
+    - /var/log/syslog
+
+output.elasticsearch:
+  hosts: ["http://192.168.10.11:9200"]
