@@ -40,6 +40,23 @@ Project reports are available in the docs folder.
 
 ---
 
-## Author
+
+## 🧠 Lessons Learned
+
+- SIEM architecture design
+- Log collection and forwarding
+- Working with Snort IDS
+- Log parsing with Grok patterns
+- Dashboard creation in Kibana
+
+---
+
+## 📌 Future Improvements
+
+- Rebuild the full environment
+- Add alerting system
+- Integrate real-time monitoring
+
+- ## Author
 
 Pelin Gülmez
